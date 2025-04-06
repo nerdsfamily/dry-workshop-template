@@ -1,6 +1,4 @@
-# DRY Workshop Template
-
-A practical Ruby workshop focused on teaching better code design through DRY (Don't Repeat Yourself) principles, using the dry-rb ecosystem of libraries for cleaner, more maintainable code.
+# Ruby Europe 2025 - dry.rb Workshop Template
 
 ## Getting Started
 
